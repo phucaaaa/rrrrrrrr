@@ -4,4 +4,12 @@
 =======
 1 tu
 2 xuan tung
+<<<<<<< HEAD
 >>>>>>> 9e807e2eecfe837a0b4ad53b12ea576159d63b49
+=======
+3 trung
+4 Thai2
+5 minh
+6 Quang
+>>>>>>> 05f5e55556ca3723a15a2baff4d744de20f3989d
+7 ba
