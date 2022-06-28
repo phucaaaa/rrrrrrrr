@@ -1,6 +1,7 @@
 0 Thai
-<<<<<<< HEAD
-1 Ba
+
+1 tu
 =======
 1 tu
->>>>>>> 9e265af26459127682c6ed61dc20e42d011e3128
+2 xuan tung
+>>>>>>> 9e807e2eecfe837a0b4ad53b12ea576159d63b49
