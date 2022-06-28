@@ -1,3 +1,4 @@
 0 Thai
 1 tu
 2 xuan tung
+3 trung
