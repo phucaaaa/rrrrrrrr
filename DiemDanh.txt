@@ -5,8 +5,7 @@
 4 Thai2
 5 minh
 6 Quang
-8 bach dan
-7 ba
 7 phuc
 8 ba
 9 minh 
+10 bach dan
