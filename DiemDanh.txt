@@ -1,2 +1,8 @@
 0 Thai
+<<<<<<< HEAD
 1 Quang
+=======
+1 tu
+2 xuan tung
+3 trung
+>>>>>>> 76d0a9f2ecff398f68dab337c21a52e44151f4c1
