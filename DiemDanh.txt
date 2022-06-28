@@ -1,20 +1,8 @@
 0 Thai
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-1 phuc
-=======
-1 tu
->>>>>>> 9e265af26459127682c6ed61dc20e42d011e3128
-=======
-1 tu
-2 xuan tung
->>>>>>> 9e807e2eecfe837a0b4ad53b12ea576159d63b49
-=======
-1 Quang
-=======
 1 tu
 2 xuan tung
 3 trung
->>>>>>> 76d0a9f2ecff398f68dab337c21a52e44151f4c1
->>>>>>> 74f7c9092c0c4ea6c05205bf0b09f4902492d3bd
+4 Thai2
+5 minh
+6 Quang
+7 phuc
