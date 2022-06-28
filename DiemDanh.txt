@@ -1,6 +1,11 @@
 0 Thai
 <<<<<<< HEAD
+<<<<<<< HEAD
 1 phuc
 =======
 1 tu
 >>>>>>> 9e265af26459127682c6ed61dc20e42d011e3128
+=======
+1 tu
+2 xuan tung
+>>>>>>> 9e807e2eecfe837a0b4ad53b12ea576159d63b49
