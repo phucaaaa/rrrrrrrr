@@ -1,5 +1,4 @@
 0 Thai
-
 1 tu
 2 xuan tung
 3 trung
@@ -8,4 +7,5 @@
 6 Quang
 8 bach dan
 7 ba
-
+7 phuc
+8 ba
